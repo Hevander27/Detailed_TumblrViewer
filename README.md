@@ -20,10 +20,16 @@ The following **required** functionality is completed:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
+    - [x] Navy blue Color Bar that appears on scroll down
+    - [x] Drop down button
+    - [x] Ability to select different blogs from the drop down menu 
 
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/TCjSPVD"  >
+<a href="//imgur.com/a/TCjSPVD">Unit 6 Project: Tumbler Detail</a></blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
@@ -33,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Hevander Da Costa]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
