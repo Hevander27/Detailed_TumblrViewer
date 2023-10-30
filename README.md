@@ -23,6 +23,7 @@ The following **additional** features are implemented:
     - [x] Custome Tumblr Navy blue Color Bar that appears on scroll down
     - [x] Drop down button
     - [x] Ability to select different blogs from the drop down menu 
+    - [x] Back button label changes depending on blog name 
 
 ## Video Walkthrough
 
