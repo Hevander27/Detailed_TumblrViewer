@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-    - [x] Navy blue Color Bar that appears on scroll down
+    - [x] Custome Tumblr Navy blue Color Bar that appears on scroll down
     - [x] Drop down button
     - [x] Ability to select different blogs from the drop down menu 
 
