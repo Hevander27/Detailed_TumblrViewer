@@ -27,16 +27,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/TCjSPVD"  >
-<a href="//imgur.com/a/TCjSPVD">Unit 6 Project: Tumbler Detail</a></blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 <img src='https://imgur.com/sKh2p8o.gif' title='Video Walkthrough' width=''  alt='Video Walkthrough' />
 
+
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
