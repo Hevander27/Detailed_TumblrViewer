@@ -8,7 +8,7 @@ Submitted by: **Hevander Da Costa**
 Time spent: **6** hours spent in total
 
 ## Required Features
-<img src='https://imgur.com/sKh2p8o.gif' title='Video Walkthrough' width=''  alt='Video Walkthrough' />
+<img src='https://i.imgur.com/sKh2p8o.gif' title='Video Walkthrough' width=''  alt='Video Walkthrough' />
 The following **required** functionality is completed:
 
 - [x] Setup navigation to the Detail Screen
