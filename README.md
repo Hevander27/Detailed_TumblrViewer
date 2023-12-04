@@ -26,7 +26,7 @@ The following **additional** features are implemented:
     - [x] Back button label changes depending on blog name 
 
 ## Video Walkthrough
-<img src='https://imgur.com/sKh2p8o.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/sKh2p8o.gif' title='Video Walkthrough' width='300' height='300' alt='Video Walkthrough' />
 
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
