@@ -8,7 +8,7 @@ Submitted by: **Hevander Da Costa**
 Time spent: **6** hours spent in total
 
 ## Required Features
-
+<img src='https://imgur.com/sKh2p8o.gif' title='Video Walkthrough' width=''  alt='Video Walkthrough' />
 The following **required** functionality is completed:
 
 - [x] Setup navigation to the Detail Screen
@@ -34,7 +34,6 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
-<img src='https://imgur.com/sKh2p8o.gif' title='Video Walkthrough' width=''  alt='Video Walkthrough' />
 Describe any challenges encountered while building the app.
 
 ## License
