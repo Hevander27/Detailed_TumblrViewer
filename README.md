@@ -25,7 +25,7 @@ The following **additional** features are implemented:
     - [x] Back button label changes depending on blog name 
 
 ## Video Walkthrough
-
+![Unit 6 Project Tumbler Detail - Imgur](https://github.com/Hevander27/Detailed_TumblrViewer/assets/45948489/a1562646-7a02-4e62-94fa-6309e7db8fc9)
 <img src='https://i.imgur.com/sKh2p8o.gif' title='Video Walkthrough' width=''  alt='Video Walkthrough' />
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/TCjSPVD"  >
 <a href="//imgur.com/a/TCjSPVD">Unit 6 Project: Tumbler Detail</a></blockquote>
